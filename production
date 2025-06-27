@@ -3,5 +3,9 @@ all important code is here only
 a=1
 b=2
 c=3
+<<<<<<< HEAD
 e=5
 
+=======
+d=4
+>>>>>>> ba5ae09 (added feature d=4)
